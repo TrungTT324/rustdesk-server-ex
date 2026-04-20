@@ -33,3 +33,5 @@ If you want to develop your own server, [rustdesk-server-demo](https://github.co
 ## Installation
 
 Please follow this [doc](https://rustdesk.com/docs/en/self-host/rustdesk-server-oss/)
+
+Custom Server
